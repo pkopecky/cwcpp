@@ -1,2 +1,2 @@
 # notebooks
-https://mybinder.org/v2/gh/pkopecky/cwcpp/master?urlpath=lab
+https://mybinder.org/v2/gh/pkopecky/nbcpp/master?urlpath=lab
