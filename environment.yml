@@ -4,3 +4,4 @@ channels:
 dependencies:
   - jupyter_contrib_nbextensions 
   - xeus-cling
+  - boost
